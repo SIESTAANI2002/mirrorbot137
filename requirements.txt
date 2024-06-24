@@ -24,3 +24,6 @@ telegraph
 tenacity
 TgCrypto
 yt-dlp
+flask==2.2.2
+aiohttp
+gunicorn==20.1.0
